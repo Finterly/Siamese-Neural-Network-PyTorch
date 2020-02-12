@@ -1,7 +1,7 @@
 # SiameseNN
 Siamese neural network for protein remote homology 
 
-<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture1.png" height="300">
+<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture1.png" height="200">
 
 <img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture2.png" height="300">
 

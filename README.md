@@ -1,5 +1,5 @@
 # SiameseNN
 Siamese neural network for protein remote homology detection
 
-![Image description](link-to-image)
+![Image food](https://github.com/Finterly/SiameseNN/blob/master/img/Picture3.png)
 

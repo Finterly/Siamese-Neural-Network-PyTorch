@@ -12,13 +12,13 @@ The final model consisted of twin four-layer convolutional neural networks:
 
 
 Our model was validated using stratified 5-fold cross-validation:
-<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture3.png" height="280">
+<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture3.png" height="270">
 
 SiameseNN Model performance on Saripella PFAM, GENE3D, and SUPFAM datasets compared to existing methods: 
-<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Capture.PNG" width="300" height="270">
+<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Capture.PNG" width="350" height="270">
 
-<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Capture2.PNG" width = "300" height="270">
+<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Capture2.PNG" width = "350" height="270">
 
-<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Capture3.PNG" width = "300" height="270">
+<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Capture3.PNG" width = "350" height="270">
 
 SiameseNN Model was found to have higher precision and lower FPR. 

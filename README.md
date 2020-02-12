@@ -3,12 +3,12 @@ Siamese neural network for protein remote homology
 
 The following architecture was built using Pytorch:
 
-<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture1.png" height="250">
+<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture1.png" height="250" align="center">
 
 
 The final model consisted of twin four-layer convolutional neural networks:  
 
-<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture2.png" height="280">
+<img src="https://github.com/Finterly/SiameseNN/blob/master/img/Picture2.png" height="280" align="center">
 
 
 Our model was validated using stratified 5-fold cross-validation:
